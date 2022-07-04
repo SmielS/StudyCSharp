@@ -16,8 +16,7 @@ int SumNatural(int m, int n)
     {
         return 0;
     }
-    int sum = m;
-    return sum += SumNatural(m + 1, n);
+    return m+= SumNatural(m + 1, n);
 }
 
 int m = Prompt("enter a start number: > ");
