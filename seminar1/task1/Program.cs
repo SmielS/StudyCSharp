@@ -16,4 +16,4 @@ if (num2int * num2int == num1int)
 
 else
 
-    Console.WriteLine("Первое число - не квадрат второго числа"); фыв
+    Console.WriteLine("Первое число - не квадрат второго числа"); 
