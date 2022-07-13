@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Examples/Exmple001_HelloConsole/Exmple001_HelloConsole.csproj",
+                "${workspaceFolder}/seminar10/task2/task2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Examples/Exmple001_HelloConsole/Exmple001_HelloConsole.csproj",
+                "${workspaceFolder}/seminar10/task2/task2.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Examples/Exmple001_HelloConsole/Exmple001_HelloConsole.csproj"
+                "${workspaceFolder}/seminar10/task2/task2.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
